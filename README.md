@@ -70,3 +70,15 @@ kubectl get pods
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
